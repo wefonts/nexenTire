@@ -1,5 +1,4 @@
 # nexenTire
-넥센 타이어체(nexenTire)
 
 <pre>
   @font-face {
